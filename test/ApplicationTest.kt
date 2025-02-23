@@ -1,6 +1,4 @@
-package dev.hijikata
-
--nasu
+package dev.hijikatanasu
 
 import io.ktor.client.request.*
 import io.ktor.http.*

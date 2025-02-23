@@ -1,6 +1,4 @@
-package dev.hijikata
-
--nasu
+package dev.hijikatanasu
 
 import io.ktor.serialization.kotlinx.json.*
 import io.ktor.server.application.*

@@ -1,6 +1,6 @@
 ktor:
   application:
     modules:
-      - dev.hijikata-nasu.ApplicationKt.module
+      - dev.hijikatanasu.ApplicationKt.module
   deployment:
     port: 8080

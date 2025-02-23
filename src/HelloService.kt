@@ -1,6 +1,4 @@
-package dev.hijikata
-
--nasu
+package dev.hijikatanasu
 
 fun interface HelloService {
     fun sayHello()
