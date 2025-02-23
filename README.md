@@ -1,4 +1,13 @@
-# figureManager
+# figureManager(仮)
+
+## このシステムついて
+
+フィギュアの予約をいい感じに管理するサービスです。</br>
+予約したフィギュアの発送時期や、購入金額等をいい感じに見ることが出来ます
+
+
+
+## ここから下 Ktor Project Generatorの生成したREADME
 
 This project was created using the [Ktor Project Generator](https://start.ktor.io).
 
