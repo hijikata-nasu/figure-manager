@@ -1,4 +1,4 @@
-rootProject.name = "figureManager"
+rootProject.name = "figure-manager"
 
 pluginManagement {
     repositories {
